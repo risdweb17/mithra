@@ -1,0 +1,102 @@
+.body{
+	font-family:"raleway",sans-serif;
+}
+.container{
+	overflow: auto;
+	padding: 20px;
+	background-color: white;
+}
+.wrapper{
+	height:2000px;
+	width:400px;
+	float:left;
+	margin-right: 20px;
+	margin-bottom: 30px;
+	text-align: left;
+}
+.imagebox{
+	height:300px;
+	width:400px;
+	background:white;
+	margin-top: 30px;
+	text-align: left;
+}
+.img{
+    max-width:100%;
+    max-height:100%;
+    margin-left:-2px;
+}
+.namebox{
+	height:68px;
+	width:350px;
+	background:white;
+	margin-top: 25px;
+	margin-left: 75px;
+	text-align: left;
+}
+.headerfont{
+	font-size: 20pt
+}
+.box{
+	height:300px;
+	width:350px;
+	background:white;
+	margin-top:30px;
+	margin-left:75px;
+	text-align: left;
+}
+.linkpadding{
+	margin-top:-6px;
+	margin-bottom:7px;
+}
+.headerbox{
+	height:34px;
+	width:350px;
+	background:white;
+	margin-top: 30px;
+	margin-left: 25px;
+	text-align: left;
+}
+.headerbox2{
+	height:34px;
+	width:350px;
+	background:white;
+	margin-top: 30px;
+	margin-left: 25px;
+	text-align: left;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.italic{
+	font-style: italic;
+}
+.Moveleft{
+	margin-left: 25px;
+}
+.Moveright{
+	margin-left:  -25px;
+}
+.Educationbox{
+	height:40px;
+	width:350px;
+	background:white;
+	margin-top:30px;
+	margin-left:25px;
+	text-align: left;
+}
+.Experience{
+	height:400px;
+	width:350px;
+	background:white;
+	margin-top:30px;
+	margin-left:25px;
+	text-align: left;
+}
+.Recognition{
+	height:400px;
+	width:350px;
+	background:white;
+	margin-top:30px;
+	margin-left:25px;
+	text-align: left;
+}
