@@ -1,0 +1,30 @@
+body{
+	font-family:"raleway",sans-serif;
+}
+.top_wrapper{
+	width:100%;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:30px;
+	text-align: left;
+	background-color:gray;
+	display: flex;
+}
+.column{
+	width:400px;
+	background-color: blue;
+	/*float:left;*/
+	flex: 1;
+}
+
+.column2{
+	width:400px;
+	background-color: green;
+	/*float:left;*/
+	flex: 2;
+}
+
+img{
+	width: 100%;
+	/*max-width: 400px;*/
+}
